@@ -1,5 +1,5 @@
-# ga2017-homework2
-Second homework for RPI Game Architecture 2017.
+# Game Architecture-homework2
+Second homework for RPI Game Architecture.
 
 In this homework you will implement parts of vector and matrix math library. 
 See src/engine/math/ga_vec3f.h and src/engine/math/ga_mat4f.cpp.
